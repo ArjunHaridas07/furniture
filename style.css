@@ -1,0 +1,30 @@
+.container{
+    margin-top: 80px;
+    text-align: center;
+}
+.container p{
+    font-family: 'Edu SA Beginner', cursive;
+font-size: large;
+}
+.container h2{
+    font-family: 'Ysabeau Infant', sans-serif;
+ font-size: 40px;
+}
+h3{
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 40px;
+
+}
+h5{
+    font-family: 'Allura', cursive;
+font-weight: bolder;
+}
+.bi{
+    float: left;
+    
+}
+html,body{
+max-width: 100%;
+    overflow-x: hidden;
+}
+
